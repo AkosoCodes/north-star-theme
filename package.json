@@ -1,0 +1,21 @@
+{
+  "name": "akoso-dark",
+  "displayName": "Akoso Dark",
+  "description": "Akoso's Dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Akoso's Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Akoso's Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
