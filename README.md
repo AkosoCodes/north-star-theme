@@ -12,7 +12,7 @@ The color pallete was chosen using **Coolors**, and the link to the pallete can 
 ## 📸 | Sample Images
 WIP
 
-## 🏁 | Getting Started <a name="getting_started"></a>
+## 🏁 | Getting Started
 
 In order to install the theme, follow these steps:
 <ol>
