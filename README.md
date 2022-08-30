@@ -16,10 +16,10 @@ WIP
 
 In order to install the theme, follow these steps:
 <ol>
-<li>Open Extensions on the sidebar.</li>
-<li>Search for North Star Theme</li>
-<li>Install & reload.</li>
-<li>Enjoy!</li>
+    <li>Open Extensions on the sidebar.</li>
+    <li>Search for North Star Theme</li>
+    <li>Install & reload.</li>
+    <li>Enjoy!</li>
 </ol>
 
 ## ⚖ | License <a name="license"></a>
