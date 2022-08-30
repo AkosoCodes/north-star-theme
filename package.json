@@ -1,7 +1,7 @@
 {
   "name": "north-star-theme",
   "displayName": "North Star Theme",
-  "description": "Akoso's Dark theme.",
+  "description": "A cyan-ish dark theme extension for Visual Studio Code.",
   "version": "1.0.0",
   "publisher": "5c4puqj3enmmtka5vocowfwrmx4o2gmcsive5gs6r26vnhpgfc3a",
   "keywords": [
@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Akoso's Dark Theme",
+        "label": "North Star Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Akoso's Dark Theme-color-theme.json"
+        "path": "./themes/north-star-theme.json"
       }
     ]
   }
