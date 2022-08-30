@@ -80,7 +80,7 @@
 		"button.secondaryHoverBackground": "#ff0000",
 
 		"textLink.foreground": "#348092",
-		"textLink.activeForeground": "#93B6BA"
+		"textLink.activeForeground": "#93B6BA",
 		
 	},
 	"tokenColors": [
