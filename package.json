@@ -1,8 +1,22 @@
 {
-  "name": "akoso-dark",
-  "displayName": "Akoso Dark",
+  "name": "north-star-theme",
+  "displayName": "North Star Theme",
   "description": "Akoso's Dark theme.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "5c4puqj3enmmtka5vocowfwrmx4o2gmcsive5gs6r26vnhpgfc3a",
+  "keywords": [
+    "theme",
+    "north",
+    "star",
+    "akoso",
+    "akosocodes",
+    "akoso codes",
+    "dark",
+    "blue",
+    "cyan",
+    "polar"
+
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
