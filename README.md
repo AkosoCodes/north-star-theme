@@ -9,8 +9,16 @@ The color pallete was chosen using **Coolors**, and the link to the pallete can 
 ![Blue Gradient](https://user-images.githubusercontent.com/74971935/187495286-74423664-8cde-4348-bd74-0c39b80ad14e.png)
 **<h3 align="center"></h3>**
 
-## 📸 | Sample Images
-WIP
+## 📸 | Snapshots
+Here are a couple of glimpses of the theme in use:
+
+<h3>Welcome Page:</h3>
+<img width="631" alt="Code_FfqkxfjpxB" src="https://user-images.githubusercontent.com/74971935/187523116-84b99782-eea3-4cc9-a910-326c8f4fb87c.png">
+<h3>Explorer and Markdown:</h3>
+<img width="631" alt="Code_K8ZOoQwRn1" src="https://user-images.githubusercontent.com/74971935/187523137-0c4d1424-a73b-4586-be33-c415b767e6a0.png">
+<h3>JSON file:</h3>
+<img width="631" alt="Code_qppdykkKRt" src="https://user-images.githubusercontent.com/74971935/187523145-e099daa2-0d3b-4bc1-9427-58e01c664c2e.png">
+
 
 ## 🏁 | Getting Started
 
