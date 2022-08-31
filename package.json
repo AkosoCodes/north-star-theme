@@ -2,7 +2,7 @@
   "name": "north-star-theme",
   "displayName": "North Star Theme",
   "description": "A cyan-ish dark theme extension for Visual Studio Code.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "publisher": "AkosoCodes",
   "icon": "logo/north-star-logo.png",
   "repository": {
